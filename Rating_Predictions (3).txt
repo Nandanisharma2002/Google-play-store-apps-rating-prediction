@@ -1,0 +1,101 @@
+Category,Reviews,Size,Installs,Type,Price,Content Rating,Genres,Updated_Month,Updated_Year,Rating_pred
+FAMILY,6,23.0,1000,Free,0.0,Everyone,Entertainment,1,2018,4
+EDUCATION,42828,13.0,1000000,Free,0.0,Everyone,Education,7,2018,4
+PRODUCTIVITY,8,7.5,100,Free,0.0,Everyone,Productivity,7,2018,4
+FOOD_AND_DRINK,333208,34.0,10000000,Free,0.0,Everyone,Food & Drink,8,2018,5
+FINANCE,510401,79.0,10000000,Free,0.0,Everyone,Finance,8,2018,5
+FAMILY,121,6.3,10000,Free,0.0,Everyone,Entertainment,12,2017,4
+PRODUCTIVITY,2084126,13.0,500000000,Free,0.0,Everyone,Productivity,7,2018,4
+SPORTS,15068,2.5,1000000,Free,0.0,Everyone,Sports,6,2018,4
+EDUCATION,11904,1.8,1000000,Free,0.0,Everyone,Education,8,2015,4
+LIFESTYLE,23453,10.0,1000000,Free,0.0,Everyone,Lifestyle,10,2017,4
+GAME,50,7.4,10000,Free,0.0,Everyone,Music,11,2017,4
+PERSONALIZATION,47393,7.2,10000000,Free,0.0,Everyone,Personalization,5,2018,4
+BUSINESS,2,17.0,100,Free,0.0,Everyone,Business,5,2017,4
+NEWS_AND_MAGAZINES,1380,13.0,100000,Free,0.0,Everyone,News & Magazines,7,2018,4
+GAME,6198880,67.0,100000000,Free,0.0,Everyone,Casual,7,2018,4
+BUSINESS,3079,8.5,100000,Free,0.0,Everyone,Business,8,2018,4
+DATING,2593,5.0,500000,Free,0.0,Mature 17+,Dating,7,2018,4
+BOOKS_AND_REFERENCE,53,16.0,5000,Free,0.0,Everyone,Books & Reference,9,2015,5
+FAMILY,731,13.0,100000,Free,0.0,Everyone,Educational;Education,7,2018,4
+GAME,44893888,98.0,100000000,Free,0.0,Everyone 10+,Strategy,7,2018,5
+PHOTOGRAPHY,0,2.3,100,Free,0.0,Everyone,Photography,10,2017,4
+SPORTS,2,12.0,100,Free,0.0,Everyone,Sports,7,2018,4
+TOOLS,85659,27.0,5000000,Free,0.0,Everyone,Tools,2,2018,4
+FAMILY,22667,35.0,1000000,Free,0.0,Teen,Role Playing,7,2018,4
+SPORTS,521138,13.0,10000000,Free,0.0,Everyone 10+,Sports,7,2018,4
+TOOLS,136874,13.0,10000000,Free,0.0,Everyone,Tools,6,2018,4
+MEDICAL,0,1.4,10,Paid,2.99,Everyone,Medical,4,2017,4
+PRODUCTIVITY,9653,5.1,1000000,Free,0.0,Everyone,Productivity,8,2018,4
+FAMILY,681,8.2,10000,Free,0.0,Everyone,Education,8,2018,4
+BUSINESS,0,3.9,100,Free,0.0,Everyone,Business,2,2018,4
+MEDICAL,3596,8.4,1000000,Free,0.0,Everyone,Medical,7,2018,4
+COMMUNICATION,9642995,13.0,1000000000,Free,0.0,Everyone,Communication,8,2018,4
+FAMILY,5,64.0,100,Free,0.0,Everyone,Entertainment,1,2018,4
+EDUCATION,181893,18.0,10000000,Free,0.0,Everyone 10+,Education,7,2018,4
+GAME,1986068,52.0,50000000,Free,0.0,Teen,Casino,7,2018,4
+FAMILY,5118,11.0,1000000,Free,0.0,Everyone,Education,3,2018,4
+HEALTH_AND_FITNESS,1203,6.5,500000,Free,0.0,Everyone,Health & Fitness,10,2016,4
+GAME,209,22.0,10000,Free,0.0,Teen,Casino,7,2018,4
+PERSONALIZATION,0,3.9,100,Free,0.0,Everyone,Personalization,5,2018,4
+HEALTH_AND_FITNESS,251534,93.0,10000000,Free,0.0,Everyone,Health & Fitness,7,2018,5
+GAME,7672495,13.0,100000000,Free,0.0,Mature 17+,Action,8,2018,5
+FAMILY,113183,36.0,5000000,Free,0.0,Everyone,Puzzle,12,2017,4
+LIBRARIES_AND_DEMO,929,7.0,50000,Free,0.0,Everyone,Libraries & Demo,2,2018,4
+HEALTH_AND_FITNESS,18921,13.0,1000000,Free,0.0,Everyone,Health & Fitness,8,2018,5
+TOOLS,33216,13.0,10000000,Free,0.0,Everyone,Tools,6,2018,4
+TOOLS,9,4.8,100,Free,0.0,Everyone,Tools,5,2018,4
+PRODUCTIVITY,80847,13.0,50000000,Free,0.0,Everyone,Productivity,7,2018,4
+PRODUCTIVITY,10643,13.0,5000000,Free,0.0,Everyone,Productivity,5,2018,4
+MAPS_AND_NAVIGATION,7231017,13.0,100000000,Free,0.0,Everyone,Maps & Navigation,7,2018,5
+TOOLS,132,2.6,50000,Free,0.0,Everyone,Tools,5,2017,4
+PRODUCTIVITY,979,0.72,100000,Free,0.0,Everyone,Productivity,9,2013,4
+PHOTOGRAPHY,98716,59.0,5000000,Free,0.0,Everyone,Photography,8,2018,4
+BOOKS_AND_REFERENCE,418,4.2,100000,Free,0.0,Everyone,Books & Reference,3,2018,4
+GAME,4921122,13.0,100000000,Free,0.0,Everyone 10+,Arcade,6,2018,4
+GAME,154108,78.0,5000000,Free,0.0,Everyone,Racing,10,2015,4
+PHOTOGRAPHY,251951,16.0,10000000,Free,0.0,Mature 17+,Photography,7,2018,4
+PRODUCTIVITY,1,17.0,50,Free,0.0,Teen,Productivity,9,2017,4
+COMMUNICATION,298,13.0,10000,Free,0.0,Teen,Communication,11,2017,4
+HEALTH_AND_FITNESS,4,28.0,1000,Free,0.0,Everyone,Health & Fitness,2,2018,4
+TOOLS,26,2.2,5000,Free,0.0,Everyone,Tools,11,2015,4
+MAPS_AND_NAVIGATION,2681,6.3,100000,Free,0.0,Everyone,Maps & Navigation,9,2017,4
+FAMILY,69013,13.0,1000000,Free,0.0,Teen,Role Playing,9,2017,5
+PERSONALIZATION,88,4.2,1000,Free,0.0,Everyone,Personalization,1,2018,5
+BUSINESS,171771,3.2,10000000,Free,0.0,Everyone,Business,1,2018,5
+GAME,3073251,33.0,50000000,Free,0.0,Everyone 10+,Action,7,2018,4
+COMMUNICATION,11334973,13.0,500000000,Free,0.0,Everyone,Communication,7,2018,4
+COMMUNICATION,1,25.0,10,Free,0.0,Teen,Communication,10,2017,4
+HOUSE_AND_HOME,162243,12.0,10000000,Free,0.0,Everyone,House & Home,7,2018,5
+PRODUCTIVITY,574719,20.0,10000000,Free,0.0,Everyone,Productivity,7,2018,5
+PRODUCTIVITY,1880,18.0,50000,Paid,1.49,Everyone,Productivity,7,2018,5
+FAMILY,17,42.0,1000,Free,0.0,Everyone,Simulation,7,2018,4
+ENTERTAINMENT,61201,13.0,10000000,Free,0.0,Teen,Entertainment,7,2018,4
+BEAUTY,2277,22.0,500000,Free,0.0,Everyone,Beauty,7,2018,4
+LIBRARIES_AND_DEMO,110,10.0,10000,Free,0.0,Everyone,Libraries & Demo,11,2017,4
+LIFESTYLE,4,14.0,500,Free,0.0,Everyone,Lifestyle,1,2017,5
+FAMILY,20,31.0,1000,Free,0.0,Everyone,Educational,4,2018,4
+GAME,3846378,82.0,50000000,Free,0.0,Everyone,Racing,5,2018,4
+COMMUNICATION,0,5.7,10,Paid,19.99,Everyone,Communication,7,2018,4
+COMMUNICATION,60308,13.0,5000000,Free,0.0,Everyone,Communication,6,2018,4
+SOCIAL,20,4.2,10,Free,0.0,Teen,Social,7,2018,4
+TOOLS,1,75.0,1,Free,0.0,Everyone,Tools,7,2018,4
+GAME,3816799,32.0,100000000,Free,0.0,Everyone,Action,7,2018,4
+PRODUCTIVITY,38,13.0,1000,Free,0.0,Everyone,Productivity,7,2018,4
+FAMILY,124,2.5,500,Free,0.0,Everyone,Entertainment,8,2016,5
+FAMILY,47,3.3,5000,Free,0.0,Everyone,Simulation,8,2018,4
+GAME,4355,13.0,1000000,Free,0.0,Everyone,Casual,7,2017,4
+BOOKS_AND_REFERENCE,5300,11.0,1000000,Free,0.0,Everyone,Books & Reference,11,2017,4
+PRODUCTIVITY,1502622,13.0,100000000,Free,0.0,Everyone,Productivity,7,2018,4
+GAME,155,32.0,1000,Paid,2.49,Everyone,Arcade,5,2018,5
+BUSINESS,1058,23.0,500000,Free,0.0,Everyone,Business,6,2018,4
+GAME,6,30.0,500,Free,0.0,Everyone,Music,5,2018,4
+HEALTH_AND_FITNESS,0,7.1,10,Free,0.0,Everyone,Health & Fitness,7,2018,4
+LIFESTYLE,82,8.7,5000,Free,0.0,Everyone,Lifestyle,7,2015,4
+FAMILY,3527,35.0,100000,Free,0.0,Teen,Strategy,9,2015,4
+COMMUNICATION,437674,13.0,10000000,Free,0.0,Everyone,Communication,8,2018,4
+PRODUCTIVITY,0,13.0,5,Free,0.0,Everyone,Productivity,1,2018,4
+BUSINESS,27,18.0,5000,Free,0.0,Everyone,Business,5,2018,4
+FAMILY,117,13.0,5000,Free,0.0,Everyone,Education,6,2018,4
+AUTO_AND_VEHICLES,4,3.9,100,Free,0.0,Everyone,Auto & Vehicles,7,2018,4
+FINANCE,3,8.2,100,Free,0.0,Everyone,Finance,2,2018,4
